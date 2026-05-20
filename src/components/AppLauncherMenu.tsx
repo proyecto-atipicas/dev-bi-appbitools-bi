@@ -143,7 +143,7 @@ const BASE_SECTIONS: LauncherSection[] = [
         icon: FileDown,
         iconClass: 'text-teal-600',
         href: 'https://credenciales.actoreselectorales.com/',
-        credentials: [{ label: 'Contraseña', value: 'Pr351d3nc14*2026' }],
+        credentials: [{ label: 'Contraseña', value: 'Admin123!' }],
       },
       {
         id: 'documentacion-area',
