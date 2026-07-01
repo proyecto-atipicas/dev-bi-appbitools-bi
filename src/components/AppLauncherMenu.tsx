@@ -198,7 +198,7 @@ const BASE_SECTIONS: LauncherSection[] = [
           'Vista consolidada electoral, socioeconómica y poblacional a nivel territorial.',
         icon: Map,
         iconClass: 'text-fuchsia-600',
-        href: 'https://analitica-palo-viedo.vercel.app/',
+        href: 'https://analitica-territoriales.vercel.app',
       },
     ],
   },
